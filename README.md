@@ -8,7 +8,7 @@
 
 ## 数据集下载链接
 
-点击此处
+[点击此处](https://aistudio.baidu.com/aistudio/datasetdetail/55589)
 
 ## 安装步骤
 
